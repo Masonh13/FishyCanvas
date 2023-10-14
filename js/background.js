@@ -148,7 +148,6 @@ chrome.runtime.onInstalled.addListener(function () {
     updateNewCSS();
 });
 
-chrome.runtime.setUninstallURL("https://mhoey.us/Uninstall");
 
 function newInstallCSS() {
     fetch(chrome.runtime.getURL('js/darkcss.json'))

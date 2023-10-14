@@ -62,12 +62,6 @@
     "dashboard_notes": {
         "message": "Dashboard Notes"
     },
-    "gpa_calculator": {
-        "message": "GPA calculator"
-    },
-    "gpa_settings": {
-        "message": "GPA settings"
-    },
     "grade_hover": {
         "message": "Show on Hover"
     },
@@ -94,9 +88,6 @@
     },
     "full_width": {
         "message": "Full Dashboard Width"
-    },
-    "report_issue": {
-        "message": "Report an issue"
     },
     "assignment_cutoff": {
         "message": "Assignment Cutoff: "

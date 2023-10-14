@@ -1,5 +1,5 @@
 :root {--inputbg: #323232}
-body{width:520px;height: 100%; font-family: 'Coming Soon', sans-serif;color: #e2e2e2;background: #161616;transition: .3s height}
+body{width:520px;height: 100%; font-family: 'Inter', sans-serif;color: #e2e2e2;background: #161616;transition: .3s height}
 h1, h2, p, body{margin:0;padding:0}
 h1 {font-size:34px;}
 h2 {font-size:24px;}

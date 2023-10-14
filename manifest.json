@@ -2,12 +2,12 @@
   "manifest_version": 3,
   "name": "Fishy Canvas",
   "description": "Canvas but More Fish",
-  "version": "0.0.1.1",
+  "version": "1.1.1",
   "icons": {
     "16": "icon/16fish.png",
     "32": "icon/32fish.png",
     "48": "icon/48fish.png",
-    "128": "icon/Real_Icon.png"
+    "128": "icon/128fish.png"
   },
   "action": {
     "default_icon": {
@@ -20,6 +20,7 @@
   "background": {
     "service_worker": "js/background.js"
   },
+  "options_page": "html/options.html",
   "content_scripts": [
     {
       "matches": ["https://*/*"],
