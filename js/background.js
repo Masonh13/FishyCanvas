@@ -12,7 +12,7 @@ chrome.runtime.onInstalled.addListener(function () {
         "auto_dark_start": { "hour": "20", "minute": "00" },
         "auto_dark_end": { "hour": "08", "minute": "00" },
         "num_assignments": 5,
-        "assignment_cutoff": 0,
+        "assignment_cutoff": 15,
         "custom_domain": [""],
         "custom_domain2": [""],
         "assignments_done": [],
